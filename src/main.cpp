@@ -5,8 +5,8 @@
 #include <AsyncMqttClient.h>
 #include <SimpleDHT.h>
 
-#define WIFI_SSID "Ziggo6CC2ACC"
-#define WIFI_PASSWORD "s7rmaurasWcn"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define MQTT_HOST IPAddress(192, 168, 178, 110)
 #define MQTT_PORT 1883
